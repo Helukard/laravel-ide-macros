@@ -1,5 +1,5 @@
 {
-    "name": "tutorigo/laravel-ide-macros",
+    "name": "helukard/laravel-ide-macros",
     "description": "Generating a helper file for IDEs to support Laravel's macros.",
     "keywords": [
         "laravel",
